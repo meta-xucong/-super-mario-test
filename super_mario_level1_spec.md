@@ -5,6 +5,8 @@
 > 推荐技术栈：TypeScript + Vite + WebGL 渲染器（PixiJS 或等价方案）+ Web Audio API
 > 设计原则：**关卡节奏、操作手感、交互规则与原版 1-1 对齐；美术、动画、粒子、镜头、音频全部原创并以现代技术升级。**
 
+> 开发前请先阅读 [审计与开工门槛](docs/00-readiness-audit.md)、[参考取证与布局冻结](docs/02-reference-and-layout-freeze.md) 与 [技术架构契约](docs/03-technical-architecture.md)。本文件中用于说明数据格式的坐标、宽高或实体示例不是最终关卡数据。
+
 ---
 
 ## 1. 项目定义与边界
