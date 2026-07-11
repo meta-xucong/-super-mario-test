@@ -1,0 +1,17 @@
+{
+  "name": "sunrise-ridge-runner",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "test": "node tests/static_checks.js",
+    "inspect": "node tests/static_checks.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "typescript": "^5.5.0"
+  }
+}
